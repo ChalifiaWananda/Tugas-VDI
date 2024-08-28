@@ -1,5 +1,7 @@
 # Tugas Resume Visualisasi Data dan Informasi
+
 Nama    : Chalifia Wananda
+
 NIM     : 122450076
 ----
 
