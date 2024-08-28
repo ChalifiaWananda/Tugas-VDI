@@ -7,7 +7,7 @@ NIM     : 122450076
 ----
 
 ## Judul Jurnal
-Makingdatavisualization more efficient and effective: a survey
+Making data visualization more efficient and effective: a survey
 ## Nama Penulis
 Xuedi Qin ·Yuyu Luo ·Nan Tang ·Guoliang Li
 ## Latar Belakang
@@ -51,7 +51,7 @@ Pada bagian ini, kita akan membahas pendekatan yang efisien untuk visualisasi da
 2. Perkiraan visualisasi data
 Ketika volume data tumbuh secara eksponensial, data tradisional modul pemrosesan tidak dapat memberikan hasil pemrosesan interaktif yang cepat. Untuk menjembatani kesenjangan antara volume data dan interaktivitas, banyak pekerjaan [24–28,99] mempercepat fase pemrosesan data dengan memanfaatkan perkiraan pemrosesan kueri (AQP) yang memberikan perkiraan hasil visualisasi.
 
-Kami membahas perkiraan visualisasi data dari tiga perspektif: pendekatan berbasis AQP yang memanfaatkan teknik
+   Kami membahas perkiraan visualisasi data dari tiga perspektif: pendekatan berbasis AQP yang memanfaatkan teknik
 - **Berbasis AQP** Cara mudah untuk menghasilkan visualisasi perkiraan dalam waktu interaktif adalah dengan memanfaatkan teknik AQP. Menggunakan subset representatif dari data dapat memberikan perkiraan visualisasi kepada pengguna interaksi online dengan mengorbankan kualitas. 
  - **Berbasis Pengambilan Sampel Inkremental** Ide utama dari perkiraan visualisasi dengan pengambilan sampel bertahap adalah bahwa sistem menghasilkan perkiraan visualisasi berdasarkan sampel representatif dari kumpulan data dengan cepat.Kemudian, sistem meningkatkan ukuran sampel dari waktu ke waktu untuk terus meningkatkan kualitas visualisasi. Pengguna biasanya dapat memperoleh beberapa wawasan awal dari perkiraan visualisasi dan memutuskan untuk menghentikannya jika kualitas visualisasi cukup untuk memverifikasi wawasan ini.
 - **Berbasis Persepsi Manusia**
@@ -61,7 +61,6 @@ Kami membahas perkiraan visualisasi data dari tiga perspektif: pendekatan berbas
 - Pengelompokan Berbasis Rentang dan Konten
 
 ###  Rekomendasi visualisasi
-
 #### Rekomendasi berdasarkan spesifikasi
 1.  Spesifikasi tidak lengkap
 2. Spesifikasi berbasis referensi
