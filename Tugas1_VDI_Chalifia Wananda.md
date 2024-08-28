@@ -3,6 +3,7 @@
 Nama    : Chalifia Wananda
 
 NIM     : 122450076
+
 ----
 
 ## Judul Jurnal
