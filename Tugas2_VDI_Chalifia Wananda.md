@@ -28,7 +28,7 @@ TUGAS VDI-Key Principles
 
 -   *Bad Visualisation*
 
-    ![Gambar 1](gambar/bad 2.jpg)
+       ![Gambar 1](gambar/VOSviewer-keyword-co-occurrence-clustering-view.png)
 
     Visualisasi data diatas merupakan visualisasi data jejaringan sosial facebook. Mengapa dikatakan *bad*, karena terlalu banyak garis yang memenuhi data sehingga menyulitkan untuk dibaca. Prinsip kesederhaaan dan relevansi tidak terpenuhi.
 
