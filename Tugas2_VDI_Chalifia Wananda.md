@@ -4,6 +4,7 @@ Nama : Chalifia Wananda
 NIM : 122450076
 
 TUGAS VDI-Key Principles
+
 -----
 **4 Prinsip Dasar Visualisasi Data:**
 
