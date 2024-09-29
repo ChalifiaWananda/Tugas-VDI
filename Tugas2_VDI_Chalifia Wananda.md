@@ -28,21 +28,21 @@ TUGAS VDI-Key Principles
 
 -   *Bad Visualisation*
 
-    ![Gambar 1](D:/kampus/sem%205/vdi/tugas%202/bad%202.jpg)
+    ![Gambar 1](gambar/bad 2.jpg)
 
     Visualisasi data diatas merupakan visualisasi data jejaringan sosial facebook. Mengapa dikatakan *bad*, karena terlalu banyak garis yang memenuhi data sehingga menyulitkan untuk dibaca. Prinsip kesederhaaan dan relevansi tidak terpenuhi.
 
-    ![Gambar 2](D:/kampus/sem%205/vdi/tugas%202/1RJmF.png)
+    ![Gambar 2](gambar/1RJmF.png)
 
     Visualisasi diatas merupakan pie chart, dikatakan *bad* karena terlalu banyak memiliki segmen yang terdapat pada datanya. Prinsip kesederhanaan dan efektivitasnya tidak terpenuhi.
 
 -   *Good Visualisation*
 
-    ![Gambar 3](D:/kampus/sem%205/vdi/tugas%202/good1.png)
+    ![Gambar 3](gambar/good1.png)
 
     Visualisai diatas merupakan visualisasi scatterplot yang menunjukkan dua variabel numerik. Dan dengan *trendline* yang memberikan gambaran umum tentang tren data tersebut. Dikatakan *good visualisatio*n karena memenuhi prinsip kesederhanaan,akurasi dan relevansi
 
-    ![Gambar 4](D:/kampus/sem%205/vdi/tugas%202/good2.jpeg)
+    ![Gambar 4](gambar/good2.jpeg)
 
     Visualisasi diatas merupak jenis visualisasi Heatmap, visualisasi ini menampilkan data dalam bentuk matriks, yang menunjukkan pola dan anomali. Dikatakan *good visualization* karena memenuhi 4 prinsip visualisasi yang baik.
 
