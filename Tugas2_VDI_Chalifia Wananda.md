@@ -28,27 +28,11 @@ TUGAS VDI-Key Principles
 
 -   *Bad Visualisation*
 
-    ```{r}
-    install.packages("imager")
-    library(imager)
-
-    ```
-
     ![Gambar 1](D:/kampus/sem%205/vdi/tugas%202/bad%202.jpg)
-
-    ```{r}
-    img <- load.image("D:/kampus/sem 5/vdi/tugas 2/bad 2.jpg")
-    plot(img)
-    ```
 
     Visualisasi data diatas merupakan visualisasi data jejaringan sosial facebook. Mengapa dikatakan *bad*, karena terlalu banyak garis yang memenuhi data sehingga menyulitkan untuk dibaca. Prinsip kesederhaaan dan relevansi tidak terpenuhi.
 
     ![Gambar 2](D:/kampus/sem%205/vdi/tugas%202/1RJmF.png)
-
-    ```{r}
-    img <- load.image("D:/kampus/sem 5/vdi/tugas 2/1RJmF.png")
-    plot(img)
-    ```
 
     Visualisasi diatas merupakan pie chart, dikatakan *bad* karena terlalu banyak memiliki segmen yang terdapat pada datanya. Prinsip kesederhanaan dan efektivitasnya tidak terpenuhi.
 
